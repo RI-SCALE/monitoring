@@ -28,11 +28,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 129,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "time": 139,
+    "timeDay": 139,
+    "timeWeek": 139,
+    "timeMonth": 139,
+    "timeYear": 139,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Model Hub",
+    "url": "modelhub.riscale.eu",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "model-hub",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 458,
+    "timeDay": 458,
+    "timeWeek": 458,
+    "timeMonth": 458,
+    "timeYear": 458,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2865,
-    "timeDay": 2865,
-    "timeWeek": 2865,
-    "timeMonth": 2865,
-    "timeYear": 2865,
+    "time": 2781,
+    "timeDay": 2781,
+    "timeWeek": 2781,
+    "timeMonth": 2781,
+    "timeYear": 2781,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xroot-d-musica-linz",
     "status": "down",
-    "uptime": "28.34%",
-    "uptimeDay": "28.34%",
-    "uptimeWeek": "28.34%",
-    "uptimeMonth": "28.34%",
-    "uptimeYear": "28.34%",
+    "uptime": "12.01%",
+    "uptimeDay": "12.01%",
+    "uptimeWeek": "12.01%",
+    "uptimeMonth": "12.01%",
+    "uptimeYear": "12.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-13": 10
+      "2026-08-13": 30
     }
   },
   {
@@ -84,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 171,
-    "timeWeek": 171,
-    "timeMonth": 171,
-    "timeYear": 171,
+    "time": 181,
+    "timeDay": 181,
+    "timeWeek": 181,
+    "timeMonth": 181,
+    "timeYear": 181,
     "dailyMinutesDown": {}
   }
 ]

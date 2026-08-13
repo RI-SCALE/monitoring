@@ -12,7 +12,8 @@ sites:
     url: fts-egi.cern.ch
     port: 8446
   - name: EGI Check-in Dev
-    url: https://aai-dev.egi.eu/
+    url: aai-dev.egi.eu
+    port: 443
   - name: XrootD MUSICA LINZ 
     check: "tcp-ping"
     url: stg-xrootdm-01.musica.lnz.asc.ac.at:

@@ -11,6 +11,9 @@ sites:
     check: "tcp-ping"
     url: fts-egi.cern.ch
     port: 8446
+  - name: Model Hub
+    url: modelhub.riscale.eu
+    port: 443
   - name: EGI Check-in Dev
     url: aai-dev.egi.eu
     port: 443

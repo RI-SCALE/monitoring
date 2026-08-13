@@ -16,7 +16,7 @@ sites:
     port: 443
   - name: XrootD MUSICA LINZ 
     check: "tcp-ping"
-    url: stg-xrootdm-01.musica.lnz.asc.ac.at:
+    url: stg-xrootdm-01.musica.lnz.asc.ac.at
     port: 1094
   - name: TUBITAK TEAPOT 
     check: "tcp-ping"

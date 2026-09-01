@@ -112,9 +112,9 @@
     "url": "portal.161.9.255.169.nip.io",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jupyter-hub-tubitak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,6 +123,8 @@
     "timeWeek": 170,
     "timeMonth": 170,
     "timeYear": 170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-01": 0
+    }
   }
 ]
